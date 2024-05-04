@@ -1,0 +1,9 @@
+{
+    "git.openRepositoryInParentFolders": "never",
+    "remote.SSH.remotePlatform": {
+        "apidataweather": "linux",
+        "weather_api_data": "linux"
+    },
+    "tabnine.experimentalAutoImports": true,
+    "workbench.startupEditor": "none"
+}

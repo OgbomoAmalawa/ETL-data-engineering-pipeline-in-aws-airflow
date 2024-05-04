@@ -1,0 +1,56 @@
+2024-05-04 04:19:20.919 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-05-04 04:19:20.919 [info] Experiment 'pythonREPLSmartSend' is active
+2024-05-04 04:19:20.919 [info] Experiment 'pythonSurveyNotification' is active
+2024-05-04 04:19:20.919 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-05-04 04:19:20.919 [info] Experiment 'pythonTestAdapter' is active
+2024-05-04 04:19:21.038 [info] Default formatter is set to null for workspace /home/ubuntu
+2024-05-04 04:19:21.809 [info] > hatch env show --json
+2024-05-04 04:19:21.809 [info] cwd: .
+2024-05-04 04:19:21.838 [info] > ./airflow_environment/bin/python -I ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/interpreterInfo.py
+2024-05-04 04:19:21.894 [info] > pyenv which python
+2024-05-04 04:19:21.894 [info] cwd: .
+2024-05-04 04:19:21.907 [info] Python interpreter path: ./airflow_environment/bin/python
+2024-05-04 04:19:25.502 [info] > . ./airflow_environment/bin/activate && echo 'e8b39361-0157-4923-80e1-22d70d46dee6' && python ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-04 04:19:25.502 [info] shell: bash
+2024-05-04 04:19:25.618 [info] > /bin/python3 ./.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariables.py
+2024-05-04 04:19:25.618 [info] shell: bash
+2024-05-04 04:19:25.653 [info] Setting environment variable VIRTUAL_ENV in collection to /home/ubuntu/airflow_environment {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-04 04:19:25.653 [info] Setting environment variable VIRTUAL_ENV_PROMPT in collection to (airflow_environment)  {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-04 04:19:25.654 [info] Prepending environment variable PS1 in collection with (airflow_environment)  {"applyAtShellIntegration":true,"applyAtProcessCreation":false}
+2024-05-04 04:19:25.654 [info] Prepending environment variable PATH in collection with /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash:/home/ubuntu/airflow_environment/bin: {"applyAtShellIntegration":true,"applyAtProcessCreation":true}
+2024-05-04 04:19:25.655 [info] Send text to terminal: /bin/python3 /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/printEnvVariablesToFile.py /home/ubuntu/.vscode-server/extensions/ms-python.python-2024.6.0/python_files/deactivate/bash/envVars.txt
+2024-05-04 04:19:27.271 [info] Starting Pylance language server.
+2024-05-04 04:27:53.564 [info] CreateEnv Trigger - Skipping for /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 04:27:53.776 [info] Send text to terminal: /home/ubuntu/airflow_environment/bin/python /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 04:27:53.871 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 05:41:47.677 [info] Send text to terminal: /home/ubuntu/airflow_environment/bin/python /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 05:41:47.875 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 05:46:17.040 [info] Send text to terminal: /home/ubuntu/airflow_environment/bin/python /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 05:46:17.236 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 06:00:22.056 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 06:17:01.422 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 06:36:10.756 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 06:36:14.594 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 06:41:26.207 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 06:41:39.330 [info] Send text to terminal: /home/ubuntu/airflow_environment/bin/python /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 06:41:39.496 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 06:44:33.215 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 06:44:49.747 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 06:59:26.676 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:06:01.354 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:12:53.175 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:13:06.894 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:18:40.290 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:28:34.421 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:28:39.234 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:38:30.803 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:39:53.696 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:53:11.449 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:53:17.951 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:54:46.664 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 07:54:47.946 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 08:01:42.787 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 08:02:27.991 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 08:02:35.698 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 08:10:17.681 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
+2024-05-04 08:12:35.338 [info] Discover tests for workspace name: ubuntu - uri: /home/ubuntu/airflow/dags/weather_dag.py
